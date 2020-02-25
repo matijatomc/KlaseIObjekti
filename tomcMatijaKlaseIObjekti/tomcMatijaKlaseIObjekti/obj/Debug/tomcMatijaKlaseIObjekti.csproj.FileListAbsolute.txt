@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\tomcMatijaKlaseIObjekti\tomcMatijaKlaseIObjekti\bin\Debug\tomcMatijaKlaseIObjekti.exe.config
+C:\Users\3.D\source\repos\tomcMatijaKlaseIObjekti\tomcMatijaKlaseIObjekti\bin\Debug\tomcMatijaKlaseIObjekti.exe
+C:\Users\3.D\source\repos\tomcMatijaKlaseIObjekti\tomcMatijaKlaseIObjekti\bin\Debug\tomcMatijaKlaseIObjekti.pdb
+C:\Users\3.D\source\repos\tomcMatijaKlaseIObjekti\tomcMatijaKlaseIObjekti\obj\Debug\tomcMatijaKlaseIObjekti.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tomcMatijaKlaseIObjekti\tomcMatijaKlaseIObjekti\obj\Debug\tomcMatijaKlaseIObjekti.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tomcMatijaKlaseIObjekti\tomcMatijaKlaseIObjekti\obj\Debug\tomcMatijaKlaseIObjekti.exe
+C:\Users\3.D\source\repos\tomcMatijaKlaseIObjekti\tomcMatijaKlaseIObjekti\obj\Debug\tomcMatijaKlaseIObjekti.pdb
